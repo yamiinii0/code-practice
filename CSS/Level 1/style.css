@@ -1,0 +1,16 @@
+h1 {
+    color : red;
+}
+
+p {
+    color :brown;
+}
+
+button {
+    color :darkslategray;
+    background-color : lightgreen;
+}
+
+body {
+    background-color : lightblue;
+}
